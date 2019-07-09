@@ -1,5 +1,5 @@
 #Test script for Git training
 
-#William Peden
+#William James Peden
 
 2+4
